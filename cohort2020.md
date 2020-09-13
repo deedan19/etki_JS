@@ -64,6 +64,6 @@ _Alphabetically sorted by Slack nickname_
 | @Yagmur | https://www.github.com/YourGithubHandle/YourRepo |
 | @Yasemin | https://github.com/yaseminertan |
 | @Zainab | https://github.com/oladipupozainab |
-| @Your Name | https://www.github.com/YourGithubHandle/YourRepo |
+| @deedan19 | https://www.github.com/deedan19/YourRepo |
 
 ---
